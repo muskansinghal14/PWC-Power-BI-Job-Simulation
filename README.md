@@ -28,6 +28,8 @@ With the help of Power BI, I have defined proper KPIs on customer retention, cre
 📈 Customer Risk Analysis: Developed a robust dashboard for customer risk analysis, empowering strategic decision-making. 
 Moreover, I used different DAX functions to create calculated measures and columns, refining the data for deeper insights.
 
+![pwc task-3 (1)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/3f2c123a-a90a-4e19-b31c-fd15f090f40b)
+
 
 
 
