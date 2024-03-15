@@ -71,6 +71,17 @@ What did I learn from this Internship Task?
 
 ![pwc task-4(i)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/049e9968-c537-4bea-a3fc-0140d3b24085)
 
+![pwc task 4(ii)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/07bbabc9-5397-4d64-9eee-76b6a06388a1)
+
+![pwc task 4(iii)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/fac56184-4d33-4b5c-8c5c-1fa71a0c6e17)
+
+
+
+
+
+
+
+
 
 
 
