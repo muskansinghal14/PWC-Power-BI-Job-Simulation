@@ -32,6 +32,7 @@ Moreover, I used different DAX functions to create calculated measures and colum
 
 ![pwc task-3 (2)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/2432ca2a-174f-4dd7-a09f-e6868bfdee46) 
 
+![pwc task-3 (3)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/7ccb7691-d850-4dec-a957-ef4da61a7a31)
 
 
 
