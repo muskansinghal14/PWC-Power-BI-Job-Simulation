@@ -34,11 +34,42 @@ Moreover, I used different DAX functions to create calculated measures and colum
 
 ![pwc task-3 (3)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/7ccb7691-d850-4dec-a957-ef4da61a7a31)
 
+## Task 4: DIVERSITY AND INCLUSION 
+
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+
+Here is a hint: Calculating the following measures could help to define proper KPIs:
+
+number of men
+number of women
+number of leavers
+% employees promoted (FY21)
+% of women promoted
+% of hires men
+% of hires women
+% turnover
+Average performance rating: men
+Average Performance rating: women
 
 
+So, on the basis of these hints provided, I have created an interactive dashboard project using Power BI KPIs on "Diversity & Inclusion" as this is my 4th & last task of the Virtual internship on Power BI offered by Forage .🚀📈
+Throughout the task, my job was to define relevant KPIs in hiring, promotion, performance, and turnover and create a visualization of the same📉 
 
+Diversity and Inclusion Dashboards: Created not one, but three impactful dashboards, each focusing on different facets of Diversity and Inclusion. Utilized the power of data to shed light on areas of improvement and success📊✨
 
+What did I learn from this Internship Task? 
 
+1. Data Understanding Process
+2. Data cleaning
+3. Finding Insights and Solutions
+4. Data Uploading on Power BI
+5. Data Modelling and Transform Data
+6. Create Measures using Advanced DAX formulas
+7. Made different charts like Line, Donut, Bar/Column, Clustered, Line, and combined chart
+8. Uses of KPI Cards, Shapes, Slicers, Multi-Row Cards, etc.
+
+![pwc task-4(i)](https://github.com/muskansinghal14/PWC-Power-BI-Job-Simulation/assets/140623673/049e9968-c537-4bea-a3fc-0140d3b24085)
 
 
 
